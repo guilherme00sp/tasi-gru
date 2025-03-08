@@ -1,1 +1,1 @@
-console.log("teste testantno") 
+console.log("arquivo com cod mergeado") 
